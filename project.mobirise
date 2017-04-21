@@ -1,0 +1,307 @@
+{
+  "settings": {
+    "name": "kathy_ireland_landing_page",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 7,
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#171c2c"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#232c44!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#28324e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#28324e",
+            "fontSize": "0.85",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cdrawing12.svg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://leadwithcornerstone.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"approach.html\" aria-expanded=\"false\">OUR APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\">MEET OUR TEAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Press Releases</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Videos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Testimonials</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">RD1 LOGIN</a></li>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "color": "#28324e"
+            },
+            "P": {
+              "font-size": "24px"
+            }
+          },
+          "_customCSS": ".mbr-figure {\n    border: 1px solid rgba(47,70,129,.5);\n/*     box-shadow: 2px 2px 2px #2F4681; */\n}",
+          "_anchor": "msg-box4-6",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-meetkathy.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#efefef",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/WaeiPktw2G4?rel=0",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">Cornerstone's Interview on World Wide Business with kathy Ireland</span>",
+          "text": "<p>Joe and Carl Thoresen explore Cornerstone’s approach to building great business leaders with host Kathy Ireland.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#28324e",
+            "showMeta": true
+          },
+          "title": "<span style=\"font-weight: normal;\">Let's get started!</span>",
+          "meta": "Call or simply send us a note and we will make you great!"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "P": {
+              "color": "#cccccc"
+            },
+            "B": {
+              "font-size": "16px",
+              "color": "#7e9b9f"
+            },
+            "STRONG": {
+              "color": "#7e9b9f"
+            }
+          },
+          "_anchor": "contacts4-2",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<b>Address</b><br><br>Cornerstone Management Resource Systems<br>212 Mary Street<br>\nCarnegie, PA 15106<br><br>\n<strong>Contacts</strong><br>\ncontact@leadwithcornerstone.com<br><br>\nPhone: (412) 429-6400 <br>\nFax: (412) 429-6450",
+          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7e9b9f\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Proud Members of:</b></span></font></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.l-ten.org/\" target=\"_blank\">Life Science Trainers &amp; Educators Network</a></li><li><a href=\"http://www.aomonline.org/\" target=\"_blank\">Academy of Management</a></li><li><a href=\"http://www.td.org/\" target=\"_blank\">Association for Talent Development</a></li><li><a href=\"http://http://www.siop.org/\" target=\"_blank\">Society for Industrial and Organizational Psychology</a></li><li><a href=\"http://www.shrm.org/\" target=\"_blank\">Society for Human Resource Management</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "alex.loya@leadwithcornerstone.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">I'm interested to learn more.</a>"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "file:///Users/garyanewsome/Library/Application%20Support/Mobirise.com/Mobirise/projectData/cornerstone_logo_041817.svg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#28324e",
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": "0.4"
+          },
+          "text": "Copyright (c) 2017 Cornerstone Management Resources, Inc.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding\" style=\"background-color: rgb(40, 50, 78); padding-top: 1.75rem; padding-bottom: 3.5rem;\">\n    \n    <div class=\"container\">\n        <p class=\"text-xs-center mbr-editable-content\" code-editable-id=\"38\">\n            <img class=\"my-image\" src=\"@PROJECT_PATH@/assets/images/cornerstone-logo-041817.svg\">\n        </p>\n            <br>\n            <p class=\"text-xs-center mbr-editable-content\" code-editable-id=\"39\">\n                Copyright © 2017 Cornerstone Management Resources, Inc.</p>\n    </div>\n</footer>",
+          "_customCSS": ".my-image {\n    width: 240px;\n}\n",
+          "_customTemplate": true,
+          "_anchor": "footer1-3"
+        }
+      ]
+    }
+  }
+}
