@@ -22,15 +22,12 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 9,
+    "uniqCompNum": 7,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/lten-fav-128x112.png",
+    "favicon": "",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png",
-    "publishFtpPath": "public_html",
-    "publishType": "local",
-    "publishPath": "file:///Users/garyanewsome/Desktop/kathy_ireland"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -133,7 +130,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"approach.html\" aria-expanded=\"false\">OUR APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"team.html\" aria-expanded=\"false\">MEET OUR TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\" aria-expanded=\"false\">NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">RD1 LOGIN</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"approach.html\" aria-expanded=\"false\">OUR APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\">MEET OUR TEAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Press Releases</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Videos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Testimonials</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">RD1 LOGIN</a></li>"
         },
         {
           "_inherit": "msg-box5",
@@ -147,10 +144,6 @@
             },
             "P": {
               "font-size": "24px"
-            },
-            "SPAN": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           },
           "_customCSS": ".mbr-figure {\n    border: 1px solid rgba(47,70,129,.5);\n/*     box-shadow: 2px 2px 2px #2F4681; */\n}",
@@ -204,50 +197,7 @@
               "text-align": "center"
             },
             "H3": {
-              "color": "#28324e",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            },
-            "SPAN": {
-              "color": "#28324e"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-8",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": false
-          },
-          "title": "<span style=\"font-weight: normal;\">The Cornerstone experience has already helped:</span>",
-          "meta": "By John Smith posted July 20, 2016"
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<div id=\"block-structure\">\n  <div id=\"content\">\n    <div id=\"clients\">\n      <div class=\"clients-wrap\">\n          <div class=\"row\">\n            <div class=\"col-md-12\">\n        <ul id=\"clients-list\" class=\"clearfix\">\n          <li><img src=\"file:///Users/garyanewsome/Desktop/newcornerstoneweb/assets/images/janssen-logo-945x405-2.png\"></li>\n          <li><img src=\"file:///Users/garyanewsome/Desktop/newcornerstoneweb/assets/images/regeneron-web-1174x144-1.png\"></li>\n          <li><img src=\"file:///Users/garyanewsome/Desktop/newcornerstoneweb/assets/images/shionogi-web-2700x559-1.png\"></li>\n          <li><img src=\"file:///Users/garyanewsome/Desktop/newcornerstoneweb/assets/images/sanofi-web-812x101-1.png\"></li>\n          <li><img src=\"file:///Users/garyanewsome/Desktop/newcornerstoneweb/assets/images/boehringer-web-710x212-1.png\"></li>\n          <li><img src=\"file:///Users/garyanewsome/Desktop/newcornerstoneweb/assets/images/biogen-web-1024x357-1.png\"></li>\n          <li><img src=\"file:///Users/garyanewsome/Desktop/newcornerstoneweb/assets/images/astrazeneca-web-1280x327-1.png\"></li>\n          <li><img src=\"file:///Users/garyanewsome/Desktop/newcornerstoneweb/assets/images/novartis-web-5000x874-1.png\"></li>\n          <li><img src=\"file:///Users/garyanewsome/Desktop/newcornerstoneweb/assets/images/pitney-web-1280x314-1.png\"></li>\n          <li><img src=\"file:///Users/garyanewsome/Desktop/newcornerstoneweb/assets/images/roche-diagnostics-web-400x276-1.png\"></li>\n          <li><img src=\"file:///Users/garyanewsome/Desktop/newcornerstoneweb/assets/images/westinghouse-web-1997x563-1.png\"></li>\n        </ul>\n      </div></div></div>\n    </div>\n  </div>\n</div>\n",
-          "_customCSS": "ul, li {\n  margin: 0;\n  padding: 0;\n  border: 0;\n  vertical-align: baseline;\n  outline: none;\n  list-style: none;\n}\n\n#block-structure {\n  display: block;\n  margin: 0 auto;\n}\n\n#content {\n  display: block;\n  width: 100%;\n  background: #fff;\n  padding: 25px 20px;\n  -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;\n  -moz-box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;\n  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;\n}\n\n#clients {\n  display: block;\n  margin-bottom: 15px;\n}\n\n#clients .clients-wrap {\n  display: block;\n  width: 700px;\n  margin: 0 auto;\n  overflow: hidden;\n}\n\n#clients .clients-wrap ul {\n  display: block;\n  list-style: none;\n  position: relative;\n}\n\n#clients .clients-wrap ul li {\n  display: block;\n  float: left;\n  padding: 0 10px 0 10px;\n  position: relative;\n  width: 140px;\n  height: 55px;\n  line-height: 55px;\n  text-align: center;\n}\n\n#clients .clients-wrap ul li img {\n  vertical-align: middle;\n  max-width: 100%;\n  max-height: 100%;\n  -webkit-transition: all 0.3s linear;\n  -moz-transition: all 0.3s linear;\n  transition: all 0.3s linear;\n}\n",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-7"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
               "color": "#ffffff"
-            },
-            "SMALL": {
-              "color": "#8c8c8c"
             }
           },
           "_tags": [
@@ -261,8 +211,8 @@
             "bgColor": "#28324e",
             "showMeta": true
           },
-          "title": "<span style=\"font-weight: normal;\">Now it's your turn!</span>",
-          "meta": "Call or simply send us a note and schedule your consultation today."
+          "title": "<span style=\"font-weight: normal;\">Let's get started!</span>",
+          "meta": "Call or simply send us a note and we will make you great!"
         },
         {
           "_tags": [
@@ -275,7 +225,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#cccccc"
             },
             "B": {
               "font-size": "16px",
@@ -298,8 +248,8 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<span style=\"font-size: 0.875rem; line-height: 1.5;\">Cornerstone Management Resource Systems</span><br>212 Mary Street<br>\nCarnegie, PA 15106<br><br>\ncontact@leadwithcornerstone.com<br><br>\nPhone: (412) 429-6400 <br>\nFax: (412) 429-6450",
-          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7e9b9f\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\">Proud Members of:</span></font></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.l-ten.org/\" target=\"_blank\">Life Science Trainers &amp; Educators Network</a></li><li><a href=\"http://www.aomonline.org/\" target=\"_blank\">Academy of Management</a></li><li><a href=\"http://www.td.org/\" target=\"_blank\">Association for Talent Development</a></li><li><a href=\"http://http://www.siop.org/\" target=\"_blank\">Society for Industrial and Organizational Psychology</a></li><li><a href=\"http://www.shrm.org/\" target=\"_blank\">Society for Human Resource Management</a></li></ul>",
+          "text1": "<b>Address</b><br><br>Cornerstone Management Resource Systems<br>212 Mary Street<br>\nCarnegie, PA 15106<br><br>\n<strong>Contacts</strong><br>\ncontact@leadwithcornerstone.com<br><br>\nPhone: (412) 429-6400 <br>\nFax: (412) 429-6450",
+          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7e9b9f\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Proud Members of:</b></span></font></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.l-ten.org/\" target=\"_blank\">Life Science Trainers &amp; Educators Network</a></li><li><a href=\"http://www.aomonline.org/\" target=\"_blank\">Academy of Management</a></li><li><a href=\"http://www.td.org/\" target=\"_blank\">Association for Talent Development</a></li><li><a href=\"http://http://www.siop.org/\" target=\"_blank\">Society for Industrial and Organizational Psychology</a></li><li><a href=\"http://www.shrm.org/\" target=\"_blank\">Society for Human Resource Management</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "alex.loya@leadwithcornerstone.com",
@@ -348,8 +298,8 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding\" style=\"background-color: rgb(40, 50, 78); padding-top: 1.75rem; padding-bottom: 3.5rem;\">\n    \n    <div class=\"container\">\n        <p class=\"text-xs-center mbr-editable-content\" code-editable-id=\"5\">\n            <img class=\"my-image\" src=\"@PROJECT_PATH@/assets/images/single_color_logo.svg\">\n        </p>\n            <br>\n            <p class=\"text-xs-center mbr-editable-content\" style=\"color: rgb(140, 140, 140);\" code-editable-id=\"6\">\n                Copyright © 2017 Cornerstone Management Resource Systems, Inc.</p>\n    </div>\n</footer>",
-          "_customCSS": "@import url(undefined);\n.my-image {\n    width: 240px;\n}\n",
+          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding\" style=\"background-color: rgb(40, 50, 78); padding-top: 1.75rem; padding-bottom: 3.5rem;\">\n    \n    <div class=\"container\">\n        <p class=\"text-xs-center mbr-editable-content\" code-editable-id=\"23\">\n            <img class=\"my-image\" src=\"@PROJECT_PATH@/assets/images/single_color_logo.svg\">\n        </p>\n            <br>\n            <p class=\"text-xs-center mbr-editable-content\" code-editable-id=\"24\">\n                Copyright © 2017 Cornerstone Management Resources, Inc.</p>\n    </div>\n</footer>",
+          "_customCSS": ".my-image {\n    width: 240px;\n}\n",
           "_customTemplate": true,
           "_PHPplaceholders": [],
           "_JSplaceholders": [],

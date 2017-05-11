@@ -207,9 +207,6 @@
               "color": "#28324e",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            },
-            "SPAN": {
-              "color": "#28324e"
             }
           },
           "_tags": [
@@ -223,7 +220,7 @@
             "bgColor": "#fff",
             "showMeta": false
           },
-          "title": "<span style=\"font-weight: normal;\">The Cornerstone experience has already helped:</span>",
+          "title": "<span style=\"font-weight: normal;\">Cornerstone has already helped:</span>",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -262,7 +259,7 @@
             "showMeta": true
           },
           "title": "<span style=\"font-weight: normal;\">Now it's your turn!</span>",
-          "meta": "Call or simply send us a note and schedule your consultation today."
+          "meta": "Call or simply send us a note and we will make you great!"
         },
         {
           "_tags": [
